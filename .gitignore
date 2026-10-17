@@ -1,0 +1,8 @@
+build/
+*.snk
+*.log
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
